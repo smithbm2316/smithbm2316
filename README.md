@@ -1,8 +1,8 @@
-<div align="center" width="50%">
-  
 ### Hey! 👋 My name is Ben, I'm a web developer and software tinkerer
 
-**I know and work with:**
+<div align="left" width="50%">
+
+#### I know and work with:
   
 ![javascript](https://img.shields.io/badge/javascript-f7df1e?&style=for-the-badge&logo=javascript&logoColor=black)
 ![html](https://img.shields.io/badge/html-ec642a?&style=for-the-badge&logo=html5&logoColor=white)
@@ -11,12 +11,20 @@
 ![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
 
-**I'm learning:**
+</div>
+
+<div align="right" width="50%">
+  
+#### I'm learning:
   
 ![lua](https://img.shields.io/badge/lua-2c2d72?&style=for-the-badge&logo=lua&logoColor=white)
 ![eleventy](https://img.shields.io/badge/eleventy-000000?style=for-the-badge&logo=eleventy&logoColor=white)
 
-**Open-source projects that I love:**
+</div>
+
+<div align="left" width="50%">
+
+#### Open-source projects that I love:
 
 ![neovim](https://img.shields.io/badge/neovim-3789cb?&style=for-the-badge&logo=neovim&logoColor=73b05f)
 [fork of Vim that I use as my daily editor, powered by Lua](https://github.com/neovim/neovim)
