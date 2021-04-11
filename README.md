@@ -1,6 +1,6 @@
+<div align="center" width="50%">
+  
 ### Hey! 👋 My name is Ben, I'm a web developer and software tinkerer
-
-<div align="center">
 
 **I know and work with:**
   
@@ -11,18 +11,10 @@
 ![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
-
-<div align="center">
-
 **I'm learning:**
   
 ![lua](https://img.shields.io/badge/lua-2c2d72?&style=for-the-badge&logo=lua&logoColor=white)
 ![eleventy](https://img.shields.io/badge/eleventy-000000?style=for-the-badge&logo=eleventy&logoColor=white)
-
-</div>
-
-<div align="center">
 
 **Open-source projects that I love:**
 
