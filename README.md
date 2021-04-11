@@ -1,7 +1,5 @@
 ### Hey! 👋 My name is Ben, I'm a web developer and software tinkerer
 
-<div align="left" width="50%">
-
 #### I know and work with:
   
 ![javascript](https://img.shields.io/badge/javascript-f7df1e?&style=for-the-badge&logo=javascript&logoColor=black)
@@ -11,18 +9,11 @@
 ![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
-
-<div align="right" width="50%">
-  
 #### I'm learning:
   
 ![lua](https://img.shields.io/badge/lua-2c2d72?&style=for-the-badge&logo=lua&logoColor=white)
 ![eleventy](https://img.shields.io/badge/eleventy-000000?style=for-the-badge&logo=eleventy&logoColor=white)
 
-</div>
-
-<div align="left" width="50%">
 
 #### Open-source projects that I love:
 
@@ -34,5 +25,3 @@
 
 ![ncspot](https://img.shields.io/badge/ncspot-37fc7c?&style=for-the-badge&logo=spotify&logoColor=black)
 [a lightweight TUI client for Spotify](https://github.com/hrkfdn/ncspot)
-
-</div>
