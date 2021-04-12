@@ -1,13 +1,13 @@
-#### What's up! My name is Ben, I'm a web developer, tinkerer of software, Neovim and Linux enthusiast, and recent college graduate in Informatics
+#### What's up ✌️! My name is Ben, I'm a web developer 🧰, tinkerer of software 🛠️, Neovim and Linux enthusiast 🖥️, and recent college graduate in Informatics 👨‍🎓
 
 I am currently looking for a full-time junior web development position, if you would like to hire me or get in touch, feel free to send me an email at [bsmithdev@mailbox.org](mailto:bsmithdev@mailbox.org)! You can also check out the projects that I've worked on that are not shown in my GitHub profile on my [personal site](https://ben-smith.dev).
 
-##### I am a:
+#### I am a:
 
-- Coffee addict (can't start my day without freshly brewed pour over)
-- Manchester United and Golden State Warriors supporter
-- Lover of the command line (plain text and Vim are all I need to get work done)
-- Fan of gin and tonics and hard ciders on a warm spring evening
+- ☕ Coffee addict (can't start my day without freshly brewed pour over)
+- ⚽ Manchester United and 🏀 Golden State Warriors supporter
+- 👨‍💻 Lover of the command line (plain text and Vim are all I need to get work done)
+- 🥃 Fan of gin and tonics and 🍺 hard ciders on a warm spring evening
 
 <table width="100%">
 <tbody>
