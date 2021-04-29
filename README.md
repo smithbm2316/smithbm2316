@@ -61,3 +61,5 @@ I am currently looking for a full-time junior web development position, if you w
 </tr>
 </tbody>
 </table>
+
+![Ben's Github Stats](https://github-readme-stats.vercel.app/api?username=smithbm2316&show_icons=true&theme=synthwave)
