@@ -34,6 +34,7 @@
   
 ![lua](https://img.shields.io/badge/lua-2c2d72?&style=for-the-badge&logo=lua&logoColor=white)
 ![eleventy](https://img.shields.io/badge/eleventy-000000?style=for-the-badge&logo=eleventy&logoColor=white)
+![sass](https://img.shields.io/badge/sass-cf649a?style=for-the-badge&logo=sass&logoColor=white)
 ![bash](https://img.shields.io/badge/bash-4eaa25?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![github actions](https://img.shields.io/badge/github%20actions-2088ff?&style=for-the-badge&logo=github-actions&logoColor=white)
 
@@ -61,5 +62,3 @@
 </tr>
 </tbody>
 </table>
-
-![Ben's Github Stats](https://github-readme-stats.vercel.app/api?username=smithbm2316&show_icons=true&theme=synthwave)
