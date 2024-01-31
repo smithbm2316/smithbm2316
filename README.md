@@ -1,4 +1,4 @@
-# Hey! My name is Ben, I'm a Web Developer at [Vincit USA](https://vincit.com) with a passion for open-source software
+# I'm a web developer with a passion for the command line, coffee, and crafting delightful user experiences for the web!
 
 ## I know and/or currently work with:
 
